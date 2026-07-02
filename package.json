@@ -1,0 +1,9 @@
+{
+  "name": "convite-mayalle-lua",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Convite de casamento digital com integração de pagamento via Mercado Pago",
+  "dependencies": {
+    "mercadopago": "^3.2.0"
+  }
+}
